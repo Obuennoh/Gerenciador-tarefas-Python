@@ -5,8 +5,11 @@ Projeto simples desenvolvido em Python com o objetivo de praticar lógica de pro
 🚀 Funcionalidades
 
 📌 Adicionar novas tarefas
+
 📋 Listar todas as tarefas
+
 ❌ Remover tarefas existentes
+
 🔄 Menu interativo no terminal
 
 
@@ -16,6 +19,7 @@ Python
 
 
 📂 Estrutura do projeto
+
 gerenciador-tarefas-python/
 │
 ├── main.py
